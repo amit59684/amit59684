@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Adhikary</h1>
-<h3 align="center">"Hi! I'm Amit Adhikary, a back end developer crafting responsive full-stack applications for exceptional user experiences!"</h3>
+<h3 align="center">I'm a passionate Backend Developer with a strong foundation in various technologies and frameworks. I enjoy building efficient, scalable, and robust backend systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit59684&label=Profile%20views&color=0e75b6&style=flat" alt="amit59684" /> </p>
 
