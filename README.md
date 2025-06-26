@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-adhikary-4394b8167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-adhikary-4394b8167/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amit059684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amit059684" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/amitadhikary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amitadhikary/" height="30" width="40" /></a>
-<a href="https://amit59684.github.io/portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=L9D6R1we78nI&format=png&color=000000" alt="https://leetcode.com/u/amitadhikary/" height="30" width="40" /></a>
+<a href="https://amitadhikary.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=L9D6R1we78nI&format=png&color=000000" alt="https://leetcode.com/u/amitadhikary/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
